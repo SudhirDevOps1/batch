@@ -698,10 +698,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 Sort, organize & rename files into **7 categories** and **26 code sub-folders** with full undo support.
 
-🔗 https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer  
-⬇ https://raw.githubusercontent.com/SudhirDevOps1/Batch-Tools/main/auto-file-organizer/auto-file-organizer.bat
+🔗 View Folder  
+https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer
 
----
+📄 View Script  
+https://github.com/SudhirDevOps1/Batch-Tools/blob/main/auto-file-organizer/auto-file-organizer.bat
 
 ---
 
