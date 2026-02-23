@@ -23,17 +23,6 @@
 
 ---
 
-## 🚀 Available Tools
-
-<div align="center">
-
-| Tool | Overview | Access |
-|------|----------|--------|
-| 🛡️ **[Auto File Organizer](https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer)** | Professional Windows batch utility for intelligent file sorting and safe renaming. Automatically organizes files into **7 structured categories** and **26 language-based code sub-folders**, powered by a secure 2-step rename engine with full undo support. | [![Open](https://img.shields.io/badge/Open-Folder-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer)<br><br>[![Download](https://img.shields.io/badge/Download-.bat_File-2E8BFF?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/SudhirDevOps1/Batch-Tools/main/auto-file-organizer/auto-file-organizer.bat) |
-
-</div>
-
----
 
 ## 📋 Table of Contents
 
@@ -701,14 +690,24 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 # ⭐ Star This Repo!
 
-Agar ye tool useful laga toh star de do!  
-Issues ya suggestions ke liye **Issues tab** use karo.
+---
+
+## 🚀 Available Tool
+
+### 🛡️ Auto File Organizer
+
+Sort, organize & rename files into **7 categories** and **26 code sub-folders** with full undo support.
+
+🔗 https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer  
+⬇ https://raw.githubusercontent.com/SudhirDevOps1/Batch-Tools/main/auto-file-organizer/auto-file-organizer.bat
+
+---
 
 ---
 
 <div align="center">
 
-Made with ❤️ in Batch  
+Made with ❤️ in Batch by <b>SudhirDevOps1</b>  
 
 v7.0 — Code Sub-Folders Edition  
 
