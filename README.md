@@ -37,7 +37,7 @@ Batch-Tools/
 
 | Tool | Overview | Access |
 |------|----------|--------|
-| 🛡️ **[Auto File Organizer](https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer)** | Advanced file sorting and safe renaming engine. Automatically organizes files into **7 structured categories** and **26 language-based code sub-folders**, powered by a secure 2-step rename process with full undo support. | [![Open](https://img.shields.io/badge/Open-Folder-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer)<br>[![Download](https://img.shields.io/badge/Download-.bat_File-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/SudhirDevOps1/Batch-Tools/main/auto-file-organizer/auto-file-organizer.bat) |
+| 🛡️ **[Auto File Organizer](https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer)** | Advanced Windows batch utility for smart file sorting and safe renaming. Organizes files into **7 categories** and **26 language-based code sub-folders**, powered by a secure 2-step rename engine with full undo support. | [![Open Folder](https://img.shields.io/badge/Open-Folder-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhirDevOps1/Batch-Tools/tree/main/auto-file-organizer)|
 
 </div>
 
