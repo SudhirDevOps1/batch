@@ -41,7 +41,7 @@ Batch-Tools/
 
 | Tool | Description | Access |
 |------|------------|--------|
-| 🛡️ **Safe Sort + Rename** | Auto sort, organize & rename with full undo system | 👉 **[Open](./Safe-Sort-Rename/)** |
+| 🛡️ **Safe Sort + Rename** | Auto sort, organize & rename with full undo system | 👉 **[Open](.auto-file-organizer/README.md)** |
 | 📦 **File Backup Tool** | Secure file backup utility | 👉 **[Open](./File-Backup-Tool/)** |
 | 🧹 **Disk Cleanup Tool** | Remove junk & temp files safely | 👉 **[Open](./Disk-Cleanup-Tool/)** |
 
